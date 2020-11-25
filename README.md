@@ -17,9 +17,10 @@ Requer também:
 - display LCD
 - alguns switches (pushbuttons)
 - leds e resistores
+- diversas bibliotecas para que seja possível a compilação do código-fonte, facilmente encontradas para download
 
 
-Esta versão possui alguns bugs mas está em uso com um gerador a gasolina Motomil.
+Esta versão possui alguns pequenos bugs mas está em uso com um gerador a gasolina Motomil.
 Projeto aberto a sugestões de melhorias, correções e inclusão de novas funcionalidades.
 
 Teste de bancada:
