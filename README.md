@@ -4,7 +4,7 @@ Arduino Automatic Transfer Switch
 Código-fonte para ATS usando Arduino
 
 Autor:
-DANIEL GHISENI
+Daniel Ghisleni
 daniel.ghisleni@gmail.com
 
 Projeto:
